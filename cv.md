@@ -1,6 +1,6 @@
 ## **Pavel Batsianouski**
 #### paul_enrouth@outlook.com
-
+#### +375(29)-356-86-16
 *My goal is to master javascript programming skills in order to have an employment potential. I am an easy to learn, stress resistant team player and a problem solver.*
 #### Skills: 
 - Basic HTML, CSS skills; 
