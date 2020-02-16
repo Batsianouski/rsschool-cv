@@ -1,1 +1,1 @@
-# https://batsianouski.github.io/rsschool-cv/
+# https://batsianouski.github.io/rsschool-cv/cv
